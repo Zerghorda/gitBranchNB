@@ -9,7 +9,9 @@ public class GitBranch {
 
     private int fv() {
         System.out.println("nem static fv");
-        return 0;f
+        return 0;
     }
 
+    public void elj() {
+    }
 }
